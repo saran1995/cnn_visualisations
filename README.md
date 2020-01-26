@@ -1,6 +1,6 @@
 # cnn_visualisations
 
-![Sample images] [/saved_visualisations/conv2d_2/conv2d_2_10.png]
+![Sample images] (/saved_visualisations/conv2d_2/conv2d_2_10.png)
 
 # How to get started
 
