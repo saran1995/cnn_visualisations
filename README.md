@@ -1,1 +1,7 @@
 # cnn_visualisations
+
+# How to get started
+
+1) Either create a conda environment or a virtual environmnet
+2) pip install -r requirements.txt
+3) Run the CNN-Visualizations.ipynb file or cnn_train.py
