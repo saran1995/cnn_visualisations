@@ -1,6 +1,6 @@
 # cnn_visualisations
 
-![Sample images] (https://github.com/saran1995/cnn_visualisations/tree/master/saved_visualisations/conv2d_2/conv2d_2_10.png)
+![](https://github.com/saran1995/cnn_visualisations/tree/master/saved_visualisations/conv2d_2/conv2d_2_10.png)
 
 # How to get started
 
